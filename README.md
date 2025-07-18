@@ -14,17 +14,17 @@ Whether you're planning your nightly sleep or a quick daytime nap, this app calc
 
 ---
 
-## How It Works ⚙️❓
+## ⚙️❓ How It Works 
 
 Sleep happens in cycles of about 90 minutes. Waking up between these cycles helps you feel refreshed.  
 `madmad-rest-helper` calculates optimal times to fall asleep and wake up for better rest.
 
 ---
 
-## Installation 💻
-
+## 💻 Installation 
 ```bash
 git clone https://github.com/HiDMadMad/madmad-rest-helper.git
 cd madmad-rest-helper
 pip install -r requirements.txt
 python app.py
+```
