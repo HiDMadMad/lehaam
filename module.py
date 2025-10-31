@@ -8,12 +8,4 @@ if __name__ == "__main__":
     print(ASCII_ART,"use this file as a module!\n")
 
 
-MESSAGES = {}
-
-
-#================ classes ================#
-
-
-
-
-#================ functions ================#
+#================= functions =================#
