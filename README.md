@@ -15,7 +15,7 @@ whether you're planning your nightly sleep or a quick daytime nap, this app calc
 ---
 
 ## ⚙️ How It Works ❓
-sleep happens in cycles of about 90 minutes. Waking up between these cycles helps you feel refreshed.  
+sleep happens in cycles of about 90 minutes. waking up between these cycles helps you feel refreshed.  
 `Lehaam` calculates optimal times to fall asleep and wake up for better rest.
 
 ---
