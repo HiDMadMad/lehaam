@@ -1,4 +1,4 @@
-# 💤⏰ madmad-rest-helper
+# 💤⏰ Lehaam | لِهام
 
 A simple and smart CLI-based Python app to help you optimize your sleep and nap schedules.  
 Whether you're planning your nightly sleep or a quick daytime nap, this app calculates the best times to sleep and wake up for maximum rest and productivity.
