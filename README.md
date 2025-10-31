@@ -1,30 +1,49 @@
-# 💤⏰ madmad-rest-helper
-
-A simple and smart CLI-based Python app to help you optimize your sleep and nap schedules.  
-Whether you're planning your nightly sleep or a quick daytime nap, this app calculates the best times to sleep and wake up for maximum rest and productivity.
+# 💤⏰ Lehaam | لِهام
+A simple and smart Python app to help you optimize your sleep and nap schedules.  
+whether you're planning your nightly sleep or a quick daytime nap, this app calculates the best times to sleep and wake up for maximum rest and productivity.
 
 ---
 
 ## ✨ Features
-
-- Calculates ideal sleep and wake-up times based on sleep cycles ⏱️  
-- Supports both nighttime sleep and daytime naps 🌙☀️  
-- User-friendly and easy to use 👍  
-- Helps improve your overall rest and energy levels 🔋⚡  
+- calculates ideal sleep and wake-up times based on sleep cycles ⏱️  
+- supports both nighttime sleep and daytime naps 🌙☀️
+- CLI app for local use 💻
+- telegram bot for sleep suggestions on the go 🤖
+- user-friendly and easy to use 👍  
+- helps improve your overall rest and energy levels 🔋⚡  
 
 ---
 
 ## ⚙️ How It Works ❓
-
-Sleep happens in cycles of about 90 minutes. Waking up between these cycles helps you feel refreshed.  
-`madmad-rest-helper` calculates optimal times to fall asleep and wake up for better rest.
+sleep happens in cycles of about 90 minutes. Waking up between these cycles helps you feel refreshed.  
+`Lehaam` calculates optimal times to fall asleep and wake up for better rest.
 
 ---
 
-## 💻 Installation 
+## 💻 Installation
+### ⌨️ CLI App
 ```bash
-git clone https://github.com/HiDMadMad/madmad-rest-helper.git
-cd madmad-rest-helper
+git clone https://github.com/HiDMadMad/Lehaam.git
+cd Lehaam
 pip install -r requirements.txt
-python app.py
+python cli_app.py
 ```
+### 🤖 Telegram Bot
+1. create your own telegram bot using `@BotFather` telegram bot
+2. copy your bot's API token and replace the API_TOKEN placeholder in 'telegram_bot.py'
+3. run the bot :
+   ```bash
+   python telegram_bot.py
+   ```
+
+---
+
+## 🙏 Contributions
+feedback, ideas, and pull requests are welcome!
+feel free to open an issue or contribute.
+
+---
+
+## 📜 License
+this project is licensed under the MIT License
+copyright © 2025 HiDMadMad
