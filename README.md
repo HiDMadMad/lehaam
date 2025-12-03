@@ -29,17 +29,17 @@ pip install -r requirements.txt
 python cli_app.py
 ```
 ### 🤖 Telegram Bot
-click on https://t.me/lehaambot or go to the telegram and search for 'lehaambot' to start using it.
+click on https://t.me/lehaambot or go to the telegram and search for 'lehaambot' to start using it.  
 don't worry, it's user-friendly =)
 
 ---
 
 ## 🙏 Contributions
-feedback, ideas, and pull requests are welcome!
+feedback, ideas, and pull requests are welcome!  
 feel free to open an issue or contribute.
 
 ---
 
 ## 📜 License
-this project is licensed under the MIT License
+this project is licensed under the MIT License  
 copyright © 2025 HiDMadMad
