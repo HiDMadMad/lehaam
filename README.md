@@ -29,12 +29,8 @@ pip install -r requirements.txt
 python cli_app.py
 ```
 ### 🤖 Telegram Bot
-1. create your own telegram bot using `@BotFather` telegram bot
-2. copy your bot's API token and replace the API_TOKEN placeholder in 'telegram_bot.py'
-3. run the bot :
-   ```bash
-   python telegram_bot.py
-   ```
+click on https://t.me/lehaambot or go to the telegram and search for 'lehaambot' to start using it.
+don't worry, it's user-friendly =)
 
 ---
 
