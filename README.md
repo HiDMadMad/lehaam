@@ -29,7 +29,7 @@ sleep happens in cycles of approximately 90 minutes. waking up between these cyc
 ---
 
 ## 💻 Installation
-### 🎮 Quick Start (Windows)
+### 🖱️ Quick Start (Windows)
 1. download the latest release: [**Lehaam-v1.0.0.exe**](https://github.com/HiDMadMad/Lehaam/releases/latest)
 2. double-click to run
 3. no installation required!
@@ -40,14 +40,14 @@ don't worry, it's user-friendly =)
 
 ### ⌨️ Run from Source
 ```bash
-# Clone the repository
+# clone the repository
 git clone https://github.com/HiDMadMad/Lehaam.git
 cd Lehaam
 
-# Install dependencies (if any)
+# install dependencies (if any)
 pip install -r requirements.txt
 
-# Run the CLI app
+# run the CLI app
 python apps/cli_app.py
 ```
 
@@ -76,14 +76,14 @@ Lehaam/
 feedback, ideas, and pull requests are welcome!  
 feel free to open an issue or contribute.
 
-Here's how you can help:
+### here's how you can help:
 1. 🐛 report bugs by [opening an issue](https://github.com/HiDMadMad/Lehaam/issues)
 2. 💡 suggest new features or improvements
 3. 🔧 submit pull requests with bug fixes or enhancements
 4. 📖 improve documentation
 5. ...
 
-### Development Setup
+#### Development Setup
 ```bash
 git clone https://github.com/HiDMadMad/Lehaam.git
 cd Lehaam
@@ -93,7 +93,6 @@ pip install -r requirements.txt
 ---
 
 ## 🌟 Support
-
 if you find Lehaam helpful, please consider:
 - ⭐ starring the repository
 - 🐛 reporting bugs
@@ -102,13 +101,12 @@ if you find Lehaam helpful, please consider:
 ---
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 **Copyright © 2025 [HiDMadMad](https://github.com/HiDMadMad)**
 
 ---
 
 ## 📞 Contact
-
 - Telegram : [@HiDMadMad](https://t.me/HiDMadMad)
 - LinkedIn : [mohammad-reza-rahmanian](https://www.linkedin.com/in/mohammad-reza-rahmanian)
 - Email : [madmadpv@gmail.com](mailto:madmadpv@gmail.com)
@@ -118,6 +116,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 Made with ❤️ and ☕ for better sleep
 </div>
-```
 
 ---
