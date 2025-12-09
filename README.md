@@ -76,13 +76,13 @@ Lehaam/
 feedback, ideas, and pull requests are welcome!  
 feel free to open an issue or contribute.
 
-### here's how you can help:
+### here's how you can help :
 1. 🐛 report bugs by [opening an issue](https://github.com/HiDMadMad/Lehaam/issues)
 2. 💡 suggest new features or improvements
 3. 🔧 submit pull requests with bug fixes or enhancements
 4. 📖 improve documentation
 5. ...
-#### Development Setup
+#### Development Setup :
 ```bash
 git clone https://github.com/HiDMadMad/Lehaam.git
 cd Lehaam
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ---
 
 ## 🌟 Support
-if you find Lehaam helpful, please consider:
+if you find Lehaam helpful, please consider :
 - ⭐ starring the repository
 - 🐛 reporting bugs
 - 💬 sharing with friends who need better sleep!
