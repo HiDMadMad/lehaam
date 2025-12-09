@@ -9,7 +9,7 @@ whether you're planning your nightly sleep or a quick daytime nap, this app calc
 ---
 
 ## ✨ Features
-- ⏱️ calculates ideal sleep and wake-up times based on 90-minutes sleep cycles  
+- ⏱️ calculates ideal sleep and wake-up times based on sleep cycles  
 - 🌙 supports both nighttime sleep and daytime naps ☀️  
 - 💻 Simple CLI interface for local use  
 - 🤖 telegram bot for sleep suggestions on the go  
