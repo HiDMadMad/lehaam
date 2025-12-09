@@ -35,8 +35,8 @@ sleep happens in cycles of approximately 90 minutes. waking up between these cyc
 3. no installation required!
 
 ### 🤖 Telegram Bot
-click on [lehaambot](https://t.me/lehaambot) or go to the telegram and search for `lehaambot` to start using it instantly!  
-don't worry, it's user-friendly =)
+ click on [lehaambot](https://t.me/lehaambot) or go to the telegram and search for `lehaambot` to start using it instantly!  
+ don't worry, it's user-friendly =)
 
 ### ⌨️ Run from Source
 ```bash
