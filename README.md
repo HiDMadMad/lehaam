@@ -73,8 +73,8 @@ Lehaam/
 ---
 
 ## 🙏 Contributions
-feedback, ideas, and pull requests are welcome!  
-feel free to open an issue or contribute.
+**feedback, ideas, and pull requests are welcome!**  
+**feel free to open an issue or contribute.**
 
 ### here's how you can help :
 1. 🐛 report bugs by [opening an issue](https://github.com/HiDMadMad/Lehaam/issues)
