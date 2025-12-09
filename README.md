@@ -110,8 +110,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - Telegram : [@HiDMadMad](https://t.me/HiDMadMad)
-- LinkedIn : [LinkedIn](https://www.linkedin.com/in/mohammad-reza-rahmanian)
-- Email : [Email](mailto:madmadpv@gmail.com)
+- LinkedIn : [mohammad-reza-rahmanian](https://www.linkedin.com/in/mohammad-reza-rahmanian)
+- Email : [madmadpv@gmail.com](mailto:madmadpv@gmail.com)
 
 ---
 
