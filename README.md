@@ -24,15 +24,15 @@ sleep happens in cycles of approximately 90 minutes. waking up between these cyc
 
 - 90-minute sleep cycles
 - 15 minutes average time to fall asleep
-- Recommended 4-6 complete sleep cycles per night (6-9 hours)
+- recommended 4-6 complete sleep cycles per night (6-9 hours)
 
 ---
 
 ## 💻 Installation
 ### 🎮 Quick Start (Windows)
-1. Download the latest release: [**Lehaam-v1.0.0.exe**](https://github.com/HiDMadMad/Lehaam/releases/latest)
-2. Double-click to run
-3. No installation required!
+1. download the latest release: [**Lehaam-v1.0.0.exe**](https://github.com/HiDMadMad/Lehaam/releases/latest)
+2. double-click to run
+3. no installation required!
 
 ### 🤖 Telegram Bot
 click on [lehaambot](https://t.me/lehaambot) or go to the telegram and search for `lehaambot` to start using it instantly!  
@@ -94,25 +94,24 @@ pip install -r requirements.txt
 
 ## 🌟 Support
 
-If you find Lehaam helpful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting bugs
-- 💬 Sharing with friends who need better sleep!
-
----
-
-## 📞 Contact
-
-- GitHub : [@HiDMadMad](https://github.com/HiDMadMad)
-- Telegram : [@lehaambot](https://t.me/lehaambot)
-- Linkedin : (https://www.linkedin.com/in/mohammad-reza-rahmanian)
-- Email : [Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:madmadpv@gmail.com)
+if you find Lehaam helpful, please consider:
+- ⭐ starring the repository
+- 🐛 reporting bugs
+- 💬 sharing with friends who need better sleep!
 
 ---
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 **Copyright © 2025 [HiDMadMad](https://github.com/HiDMadMad)**
+
+---
+
+## 📞 Contact
+
+- Telegram : [@HiDMadMad](https://t.me/HiDMadMad)
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/mohammad-reza-rahmanian)
+- Email : [Email](mailto:madmadpv@gmail.com)
 
 ---
 
