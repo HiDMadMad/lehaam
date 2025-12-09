@@ -82,7 +82,7 @@ Lehaam/
 3. 🔧 submit pull requests with bug fixes or enhancements
 4. 📖 improve documentation
 5. ...
-#### Development Setup :
+#### development setup :
 ```bash
 git clone https://github.com/HiDMadMad/Lehaam.git
 cd Lehaam
