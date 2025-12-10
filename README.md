@@ -63,7 +63,9 @@ Lehaam/
 │   ├── lehaam_pieces.py    # core logic and calculations
 │   └── messages.py         # UI messages and text
 ├── assets/
-│   └── icon.ico            # application icon
+│   ├── img.png             # application icon's png
+│   └── lehaam_icon.ico     # application icon
+├── .gitignore              # compiled executable
 ├── Lehaam-v1.0.0.exe       # compiled executable
 ├── LICENSE                 # MIT License
 ├── README.md               # this file
