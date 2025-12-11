@@ -58,12 +58,17 @@ Lehaam/
 ├── apps/
 │   ├── cli_app.py          # CLI application
 │   └── telegram_bot.py     # telegram bot
-├── libs/
-│   ├── lehaam_pieces.py    # core logic and calculations
-│   └── messages.py         # UI messages and text
 ├── assets/
 │   ├── img.png             # application icon's png
 │   └── lehaam_icon.ico     # application icon
+├── libs/
+│   ├── cli_messages.py     # CLI UI messages and text
+│   ├── bot_messages.py     # bot UI messages and text
+│   └── lehaam_pieces.py    # core logic and calculations
+├── updaters
+|   ├── update_cli_exe_app.py
+|   └── update_telegram_app_on_the_server.py
+|
 ├── .gitignore              # git ignore file
 ├── Lehaam-v1.0.0.exe       # compiled executable
 ├── LICENSE                 # MIT License
