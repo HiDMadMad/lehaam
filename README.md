@@ -21,7 +21,6 @@ whether you're planning your nightly sleep or a quick daytime nap, this app calc
 ## ⚙️ How It Works ❓
 sleep happens in cycles of approximately 90 minutes. waking up between these cycles (rather than in the middle of one) helps you feel refreshed and energized.  
 **Lehaam** calculates optimal times to fall asleep and wake up for better rest.
-
 - 90-minute sleep cycles
 - 15 minutes average time to fall asleep
 - recommended 4-6 complete sleep cycles per night (6-9 hours)
@@ -29,14 +28,14 @@ sleep happens in cycles of approximately 90 minutes. waking up between these cyc
 ---
 
 ## 💻 Installation
+### 🤖 Telegram Bot
+ click on [lehaambot](https://t.me/lehaambot) or go to the telegram and search for `lehaambot` to start using it instantly!  
+ don't worry, it's user-friendly =)
+
 ### 🖱️ Quick Start (Windows)
 1. download the latest release: [**Lehaam-v1.0.0.exe**](https://github.com/HiDMadMad/Lehaam/releases/latest)
 2. double-click to run
 3. no installation required!
-
-### 🤖 Telegram Bot
- click on [lehaambot](https://t.me/lehaambot) or go to the telegram and search for `lehaambot` to start using it instantly!  
- don't worry, it's user-friendly =)
 
 ### ⌨️ Run from Source
 ```bash
@@ -63,7 +62,9 @@ Lehaam/
 │   ├── lehaam_pieces.py    # core logic and calculations
 │   └── messages.py         # UI messages and text
 ├── assets/
-│   └── icon.ico            # application icon
+│   ├── img.png             # application icon's png
+│   └── lehaam_icon.ico     # application icon
+├── .gitignore              # git ignore file
 ├── Lehaam-v1.0.0.exe       # compiled executable
 ├── LICENSE                 # MIT License
 ├── README.md               # this file
@@ -113,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ and ☕ for better sleep
+made with ❤️ and ☕ for better sleep
 </div>
 
 ---
