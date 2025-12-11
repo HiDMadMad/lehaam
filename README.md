@@ -57,7 +57,7 @@ python apps/cli_app.py
 Lehaam/
 ├── apps/
 │   ├── cli_app.py          # CLI application
-│   └── telegram_bot.py     # telegram bot (coming soon)
+│   └── telegram_bot.py     # telegram bot
 ├── libs/
 │   ├── lehaam_pieces.py    # core logic and calculations
 │   └── messages.py         # UI messages and text
