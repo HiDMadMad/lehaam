@@ -14,7 +14,7 @@ import libs.lehaam_pieces as lp
 from libs.bot_messages import get_message, format_time_result
 
 # bot token from BotFather
-TOKEN = "8468679708:AAGPUvGLfxILId7aHPxY8QWBG-g1FJWgKZc"
+TOKEN = "API_TOKEN"
 
 bot = telebot.TeleBot(TOKEN)
 
