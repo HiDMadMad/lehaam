@@ -1,2 +1,5 @@
-pyTelegramBotAPI==4.14.0
-pytz==2024.1
+paramiko==4.0.0
+pyTelegramBotAPI==4.29.1
+telebot==0.0.5
+telegram==0.0.1
+pyinstaller==6.17.0
