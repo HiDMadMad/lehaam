@@ -28,7 +28,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # bot token from BotFather
-TOKEN = "8468679708:AAEbDAcd3GnuCPtFYiw-crr1IkDvRaVvsIY"
+TOKEN = "API-TOKEN"
 
 bot = telebot.TeleBot(TOKEN)
 
